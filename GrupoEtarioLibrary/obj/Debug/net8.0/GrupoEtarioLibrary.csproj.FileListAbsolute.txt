@@ -1,0 +1,11 @@
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\bin\Debug\net8.0\GrupoEtarioLibrary.deps.json
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\bin\Debug\net8.0\GrupoEtarioLibrary.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\bin\Debug\net8.0\GrupoEtarioLibrary.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\refint\GrupoEtarioLibrary.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\GrupoEtarioLibrary.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\Examen-3-10-24\GrupoEtarioLibrary\obj\Debug\net8.0\ref\GrupoEtarioLibrary.dll
